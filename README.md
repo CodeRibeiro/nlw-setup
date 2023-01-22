@@ -23,6 +23,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app criado com o intuito de  ajudar a rastrear os hábitos diários.
 
+- [Visite o projeto online] (https://jottapedev.github.io/nlw-setup/)
+
 
 
 ## 🔚
